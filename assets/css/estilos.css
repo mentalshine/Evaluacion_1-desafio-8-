@@ -1,0 +1,114 @@
+
+
+body{
+	font-family: Open Sans;
+}
+
+.navbar ul li{
+	display: inline-block;
+	margin-left: 120px;
+	font-size: 20px;
+	text-decoration: none;
+	color: #777;
+	padding-top: 10px;
+	font-weight: 600;
+
+}
+
+
+.navbar{
+	position:fixed;
+	background-color: #eee;
+	opacity: 0.7;
+	left: 0px;
+	margin-top: 60px;
+	text-align: center;
+	z-index: 3;
+}
+
+.img-responsive{
+	max-width: 100%;
+
+}
+
+
+.fundacion{
+	margin-top: 40px;
+	color:#777;
+}
+
+#carousel-example-generic{
+	margin-top: 120px;
+}
+.recuadro{
+	margin-top: 70px;
+	z-index: 1;
+	
+	padding: 10px;
+}
+.novedades{
+	margin-top:120px;
+	color:#aaa;
+}
+
+.thumbnail{
+	
+}
+.voluntarias{
+	font-weight: 600;
+
+}
+
+.actividades{
+	font-size: 22px;
+	text-align: center;
+	color:#aaa;
+	margin-top: 20px;
+}
+.jumbotron{
+	margin-top: 30px;
+	height: 48vh;
+}
+
+.formulario{
+	background-color: white;
+	height: 30vh;
+	border: 0.2px solid black;
+}
+h2{
+	text-align: left;
+}
+.telefonos{
+	text-align: left;
+	margin-top: 30px;
+	
+}
+
+.mision{
+	margin-top: 100px;
+}
+.nuestra_mision{
+	color: #777;
+	font-weight: 600;
+}
+.imagen_mision{
+	margin-top: 180px;
+}
+.desc_objetivo{
+	margin-top: 30px; 
+	color: #777;
+	font-weight: 600;
+}
+
+.recuadro2{
+	margin-top: 130px; 
+}
+
+.titulo_noticias{
+	color: #777;
+	font-weight: 600;
+}
+
+.noticias{
+	margin-top: 100px;
+}
